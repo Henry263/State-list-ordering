@@ -1,0 +1,239 @@
+
+[
+    {
+        "statename": "Alabama",
+        "stateID": "AL"
+    },
+    {
+        "statename": "Alaska",
+        "stateID": "AK"
+    },
+    {
+        "statename": "American Samoa",
+        "stateID": "AS"
+    },
+    {
+        "statename": "Arizona",
+        "stateID": "AZ"
+    },
+    {
+        "statename": "Arkansas",
+        "stateID": "AR"
+    },
+    {
+        "statename": "California",
+        "stateID": "CA"
+    },
+    {
+        "statename": "Colorado",
+        "stateID": "CO"
+    },
+    {
+        "statename": "Connecticut",
+        "stateID": "CT"
+    },
+    {
+        "statename": "Delaware",
+        "stateID": "DE"
+    },
+    {
+        "statename": "District Of Columbia",
+        "stateID": "DC"
+    },
+    {
+        "statename": "Federated States Of Micronesia",
+        "stateID": "FM"
+    },
+    {
+        "statename": "Florida",
+        "stateID": "FL"
+    },
+    {
+        "statename": "Georgia",
+        "stateID": "GA"
+    },
+    {
+        "statename": "Guam",
+        "stateID": "GU"
+    },
+    {
+        "statename": "Hawaii",
+        "stateID": "HI"
+    },
+    {
+        "statename": "Idaho",
+        "stateID": "ID"
+    },
+    {
+        "statename": "Illinois",
+        "stateID": "IL"
+    },
+    {
+        "statename": "Indiana",
+        "stateID": "IN"
+    },
+    {
+        "statename": "Iowa",
+        "stateID": "IA"
+    },
+    {
+        "statename": "Kansas",
+        "stateID": "KS"
+    },
+    {
+        "statename": "Kentucky",
+        "stateID": "KY"
+    },
+    {
+        "statename": "Louisiana",
+        "stateID": "LA"
+    },
+    {
+        "statename": "Maine",
+        "stateID": "ME"
+    },
+    {
+        "statename": "Marshall Islands",
+        "stateID": "MH"
+    },
+    {
+        "statename": "Maryland",
+        "stateID": "MD"
+    },
+    {
+        "statename": "Massachusetts",
+        "stateID": "MA"
+    },
+    {
+        "statename": "Michigan",
+        "stateID": "MI"
+    },
+    {
+        "statename": "Minnesota",
+        "stateID": "MN"
+    },
+    {
+        "statename": "Mississippi",
+        "stateID": "MS"
+    },
+    {
+        "statename": "Missouri",
+        "stateID": "MO"
+    },
+    {
+        "statename": "Montana",
+        "stateID": "MT"
+    },
+    {
+        "statename": "Nebraska",
+        "stateID": "NE"
+    },
+    {
+        "statename": "Nevada",
+        "stateID": "NV"
+    },
+    {
+        "statename": "New Hampshire",
+        "stateID": "NH"
+    },
+    {
+        "statename": "New Jersey",
+        "stateID": "NJ"
+    },
+    {
+        "statename": "New Mexico",
+        "stateID": "NM"
+    },
+    {
+        "statename": "New York",
+        "stateID": "NY"
+    },
+    {
+        "statename": "North Carolina",
+        "stateID": "NC"
+    },
+    {
+        "statename": "North Dakota",
+        "stateID": "ND"
+    },
+    {
+        "statename": "Northern Mariana Islands",
+        "stateID": "MP"
+    },
+    {
+        "statename": "Ohio",
+        "stateID": "OH"
+    },
+    {
+        "statename": "Oklahoma",
+        "stateID": "OK"
+    },
+    {
+        "statename": "Oregon",
+        "stateID": "OR"
+    },
+    {
+        "statename": "Palau",
+        "stateID": "PW"
+    },
+    {
+        "statename": "Pennsylvania",
+        "stateID": "PA"
+    },
+    {
+        "statename": "Puerto Rico",
+        "stateID": "PR"
+    },
+    {
+        "statename": "Rhode Island",
+        "stateID": "RI"
+    },
+    {
+        "statename": "South Carolina",
+        "stateID": "SC"
+    },
+    {
+        "statename": "South Dakota",
+        "stateID": "SD"
+    },
+    {
+        "statename": "Tennessee",
+        "stateID": "TN"
+    },
+    {
+        "statename": "Texas",
+        "stateID": "TX"
+    },
+    {
+        "statename": "Utah",
+        "stateID": "UT"
+    },
+    {
+        "statename": "Vermont",
+        "stateID": "VT"
+    },
+    {
+        "statename": "Virgin Islands",
+        "stateID": "VI"
+    },
+    {
+        "statename": "Virginia",
+        "stateID": "VA"
+    },
+    {
+        "statename": "Washington",
+        "stateID": "WA"
+    },
+    {
+        "statename": "West Virginia",
+        "stateID": "WV"
+    },
+    {
+        "statename": "Wisconsin",
+        "stateID": "WI"
+    },
+    {
+        "statename": "Wyoming",
+        "stateID": "WY"
+    }
+]

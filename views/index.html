@@ -1,0 +1,26 @@
+<html>
+<head>
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.8.0.min.js"></script>
+  <script type="text/javascript" src="http://underscorejs.org/underscore-min.js"></script>
+  <script type="text/javascript" src="http://backbonejs.org/backbone-min.js"></script>
+  <script type="text/javascript" src="scripts/app.js"></script>	
+  <link rel="stylesheet" type="text/css" href="styles/app.css">
+</head>
+<body>
+  <div id="app"></div>
+  
+  <script type="text/template" id="library-template">
+    <h1>Library</h1>
+    <ul id="states-list"></ul>
+  </script>
+  
+  <script type="text/template" id="state-template">
+  	<strong><%= model.get("statename") %></strong> - <%= model.get("stateID") %>
+	<span class="controls">
+		<a href="javascript:void(0);" item-action="search">[search]</a>
+    <input type="text" name="stateName" value="<%= model.get("statename") %>" />
+    <a href="javascript:void(0);" id="submit">[Submit]</a>
+	</span>
+  </script>
+</body>
+</html>

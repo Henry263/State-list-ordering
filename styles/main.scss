@@ -1,0 +1,10 @@
+@mixin default-font-size($fsize) {
+		font-size: $fsize ;
+		font: arial, sans-serif
+}
+@mixin default-font-color($fcolor) {
+		color: $fcolor;
+}
+
+
+

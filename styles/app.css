@@ -1,0 +1,10 @@
+@import "styles/main.scss";
+	ul#states-list li span.controls {
+		 @include default-font-size(10px); 
+		 @include default-font-color(blue);
+	}
+
+	ul#states-list li:hover span.controls {
+		 @include default-font-size(15px); 
+		 @include default-font-color(green);
+	}
